@@ -245,4 +245,4 @@ npm test
 
 ## License
 
-MIT © [Your Name](https://github.com/yourusername)
+MIT © ydixit007(https://github.com/ydixit007)
